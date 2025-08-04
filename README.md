@@ -1,4 +1,4 @@
-# Analysis Layoff Dynamics in Companies
+# Analysis Layoff Dynamics
 
 
 This project is a visual way to understand where, when, and why companies are laying off employees. The dashboards highlight which industries and regions are most affected, at what stages layoffs happen most often, and how the situation has changed over time.
