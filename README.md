@@ -1,4 +1,4 @@
-# Analysis of Funding and Layoff Dynamics in Companies
+# Analysis Layoff Dynamics in Companies
 
 ## Project Overview
 
