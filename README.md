@@ -3,7 +3,7 @@
 
 This project provides a visual analysis of employee layoffs using interactive Power BI dashboards. The dashboards are designed to help identify trends, patterns, and correlations between funding stages, geographical locations, industries, and layoff rates.
 
-![Layoff Visualization](layoffs_demo.png)
+![Layoff Visualization](demo.png)
 
 **Data Source**: The dataset used for this analysis was sourced from [Kaggle – Layoffs 2022 Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022).  
 **Repository**: The image above and all related project files are hosted in this GitHub repository.
