@@ -25,7 +25,7 @@ This project provides a visual analysis of the relationship employee layoffs, us
 
 ### 4. Total Employees Laid Off Over Time
 - Type: Line chart
-- Purpose: Displays the trend of layoffs over time (by year).
+- Purpose: Displays the trend of layoffs over time (by year and month).
 - Insight: Allows observation of peaks and dips in overall staff reductions.
 
 ### 5. Layoffs by Industry
@@ -44,7 +44,7 @@ This project provides a visual analysis of the relationship employee layoffs, us
 
 ## Purpose
 
-Each visualization provides a different angle on the relationship between startup growth (via funding) and workforce dynamics (via layoffs). Filters and interactive features allow for dynamic analysis by:
+Each visualization provides workforce dynamics (via layoffs). Filters and interactive features allow for dynamic analysis by:
 
 - Company  
 - Location  
