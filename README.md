@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides a visual analysis of the relationship employee layoffs, using interactive Power BI dashboards. The dashboards are designed to help identify trends, patterns, and correlations between funding stages, geographical locations, industries, and layoff rates.
+This project provides a visual analysis by employee layoffs, using interactive Power BI dashboards. The dashboards are designed to help identify trends, patterns, and correlations between funding stages, geographical locations, industries, and layoff rates.
 
 ---
 
