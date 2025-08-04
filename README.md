@@ -1,8 +1,6 @@
 # Analysis Layoff Dynamics in Companies
 
 
-## Project Overview
-
 This project provides a visual analysis of employee layoffs using interactive Power BI dashboards. The dashboards are designed to help identify trends, patterns, and correlations between funding stages, geographical locations, industries, and layoff rates.
 
 ![Layoff Visualization](demo.png)
